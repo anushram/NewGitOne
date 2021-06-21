@@ -16,6 +16,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    func getToget() {
+        print("hello")
+        print("helloOne")
+    }
 
 }
 
