@@ -15,6 +15,7 @@
 		B7DE07432680D93A0068709D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7DE07412680D93A0068709D /* LaunchScreen.storyboard */; };
 		B7DE074E2680D93B0068709D /* NewGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7DE074D2680D93B0068709D /* NewGitTests.swift */; };
 		B7DE07592680D93B0068709D /* NewGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7DE07582680D93B0068709D /* NewGitUITests.swift */; };
+		B7DE07672680E9830068709D /* CheckTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7DE07662680E9830068709D /* CheckTag.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B7DE07542680D93B0068709D /* NewGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7DE07582680D93B0068709D /* NewGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewGitUITests.swift; sourceTree = "<group>"; };
 		B7DE075A2680D93B0068709D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7DE07662680E9830068709D /* CheckTag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckTag.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				B7DE07362680D9340068709D /* AppDelegate.swift */,
 				B7DE07382680D9340068709D /* SceneDelegate.swift */,
 				B7DE073A2680D9340068709D /* ViewController.swift */,
+				B7DE07662680E9830068709D /* CheckTag.swift */,
 				B7DE073C2680D9340068709D /* Main.storyboard */,
 				B7DE073F2680D93A0068709D /* Assets.xcassets */,
 				B7DE07412680D93A0068709D /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				B7DE073B2680D9340068709D /* ViewController.swift in Sources */,
 				B7DE07372680D9340068709D /* AppDelegate.swift in Sources */,
 				B7DE07392680D9340068709D /* SceneDelegate.swift in Sources */,
+				B7DE07672680E9830068709D /* CheckTag.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
